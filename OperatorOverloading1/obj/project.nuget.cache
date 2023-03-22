@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5l0xG7I16a5ojb8gW09KvHsh0bDmV9jdr12iuE1rlBtrDNPWFpFeC4zQmwHGg91XupNy0SMlvnSzSU4oWwtrwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arapt\\Desktop\\programming\\misc\\OperatorOverloading1\\OperatorOverloading1\\OperatorOverloading1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
